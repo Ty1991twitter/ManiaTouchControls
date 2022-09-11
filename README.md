@@ -5,6 +5,6 @@ rdc this is a horrible tagline
 
 # Emscripten Support
 
-*** Credits:
+** Credits:
 
 Heyjoeway - The dude who did everything lmao
